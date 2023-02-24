@@ -1,0 +1,2 @@
+1. To import or export any functions you need to add this "type": "module",  in package.json and
+Import and export keywors for the functions.
